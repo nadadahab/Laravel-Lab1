@@ -54,9 +54,10 @@
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
-
+                                <a href="http://laravel.local/login/github" class="btn btn-success ">Login with Github </a>
+                                 
                                 <a class="btn btn-link" href="{{ route('password.request') }}">
-                                    Forgot Your Password?
+                                    Forgot Your Password
                                 </a>
                             </div>
                         </div>
